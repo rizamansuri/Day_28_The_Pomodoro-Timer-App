@@ -10,34 +10,14 @@ Python with tkinter is the fastest and easiest way to create the GUI application
 
 * When you click start button, it's going to tell you to work for 25 minutes.
 
-* Then that window can go into the background and while you are doing your work, when the timer is up, it will pop to the very front of the screen avobe all of the other windows and tell you to take a break. 
+* After 25 minutes, the timer is up, it will tell you to take a break. 
 
 * First break is for 5 minutes and you will notice that you've already acheived one check mark ✔️ for the first pomodoro completed.
 
 * Once you done with the break then it's going back to work and it's going to continue until you reach the longer break or until you click reset button to stop and reset the timer.
 
 * You do 4 of these 25 minutes work sessions, and then you get a 20 minute break.
-
-    🍅25 min work
-
-    5 min break🍅
-
-    🍅25 min work
-
-    5 min break🍅
-
-    🍅25 min work
-
-    5 min break🍅
-
-    🍅25 min work
-
-    5 min break🍅
-
-    20 min break🍅
-
-
-
+   
 ## Installation
 
 - Download the code as ZIP.
